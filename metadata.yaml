@@ -1,0 +1,31 @@
+_repo: The-Old-Stone-House_6679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: Constance Fenimore Woolson (1840? 1894) was an American novelist and
+  short story writer. She was a grandniece of James Fenimore Cooper, and is best known
+  for fictions about the Great Lakes region, the American South, and American expatriates
+  in Europe. The Old Stone House (1873), a children?s book, was her first full-length
+  publication.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Cousins -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Old Stone House
+url: http://www.gutenberg.org/ebooks/6679
