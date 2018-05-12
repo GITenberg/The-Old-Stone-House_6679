@@ -1,5 +1,8 @@
 _repo: The-Old-Stone-House_6679
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Woolson, Constance Fenimore
@@ -14,6 +17,8 @@ description: Constance Fenimore Woolson (1840? 1894) was an American novelist an
   for fictions about the Great Lakes region, the American South, and American expatriates
   in Europe. The Old Stone House (1873), a children?s book, was her first full-length
   publication.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6679#The-Old-Stone-House
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
